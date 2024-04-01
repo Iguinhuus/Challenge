@@ -8,3 +8,5 @@ Neste projeto, usamos REACT e TYPESCRPIT
 
 O projeto possui o total de 6 paginas.
 
+Abordando o conteudo do figma.
+
