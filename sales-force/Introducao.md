@@ -10,3 +10,4 @@ O projeto possui o total de 6 paginas.
 
 Abordando o conteudo do figma.
 
+A Ide usada foi o VScode, na qual foi baseado pelo projeto do figma com a ajuda de todos os participantes do grupo.
